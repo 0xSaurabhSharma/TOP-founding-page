@@ -94,6 +94,7 @@ main {
     display: block;
     max-width: 350px;
     border-radius: 8px;
+    filter: hue-rotate(45deg);
 }
 
 
